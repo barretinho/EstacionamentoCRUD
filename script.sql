@@ -54,7 +54,7 @@ INSERT INTO veiculo VALUES
 (null, "Onix", "Chevrolet "),
 (null, "HB20", "Hyundai");
 
-INSERT INTO nm_cliente VALUES
+INSERT INTO cliente VALUES
 (null, "Gabriel Gamon", "gabriel@gmail.com", "385.174.876-05", "2000-10-03", 1, 1, 1),
 (null, "Luca Poe", "luca@gmail.com", "485.849.467-56", "1990-09-31", 2, 1, 2),
 (null, "Ana Julia Ruiz Gamon", "ana@gmail.com", "599.561.343-09", "2000-10-21", 3, 2, 3),
